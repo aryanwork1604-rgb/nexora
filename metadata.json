@@ -1,0 +1,6 @@
+{
+  "name": "Nexora",
+  "description": "The Operating System for Modern Teams. Built with a pristine multi-tenant workspace architecture, floating panels, editorial typography, and integrated intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
